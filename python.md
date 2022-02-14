@@ -17,6 +17,10 @@ You can install it from PyPI via pip: pip3 install manimlib
 
 8. `https://github.com/shobrook/rebound` Rebound is a command-line tool which instantly fetches Stack Overflow results when you get a compiler error. Rebound is written in Python and built on Urwid. In this project, Beautiful Soup is used to scrape Stack Overflow content and subprocess for catching compiler errors. It requires Python 3.0 and above.
 
+9. https://github.com/snipsco/snips-nlu Snips NLU (Natural Language Understanding) is a Python library which allows extracting structured information from sentences written in natural language. This library powers the NLU engine used in the Snips Console and can be used to create private-by-design voice assistants. 
+
+
+
 
 
 

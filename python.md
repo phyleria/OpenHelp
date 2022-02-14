@@ -1,5 +1,5 @@
 # PYTHON HELP<br>
-## Looking to get started on Opensource projects to enhance your Python skills? Check out this list of projects to get you going:
+## Looking to get started on Opensource projects to enhance your Python skills? Check out this curated list of python projects to get you going:
 1. `https://github.com/Python-World/python-mini-projects`  Has a curated list of 102 starter projects to help you test your Python Skills 
 
 2. `https://github.com/3b1b/manim` Manim or Mathematical Animation Engine is an animation engine for explanatory math videos. It is basically used to create animations programmatically. Manim runs on Python 3.7. 
@@ -15,7 +15,7 @@ You can install it from PyPI via pip: pip3 install manimlib
  
 7. `https://github.com/karpathy/neuraltalk` NeuralTalk is a Python and NumPy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. NeuralTalk2 is an efficient image captioning code which is written in Lua and requires Torch. It is faster than NeuralTalk as this project is batched and runs on the GPU. It also supports CNN finetuning and runs on Python 2.7 and modern version of NumPy, SciPy, Perl.   
 
-8. https://github.com/shobrook/rebound Rebound is a command-line tool which instantly fetches Stack Overflow results when you get a compiler error. Rebound is written in Python and built on Urwid. In this project, Beautiful Soup is used to scrape Stack Overflow content and subprocess for catching compiler errors. It requires Python 3.0 and above.
+8. `https://github.com/shobrook/rebound` Rebound is a command-line tool which instantly fetches Stack Overflow results when you get a compiler error. Rebound is written in Python and built on Urwid. In this project, Beautiful Soup is used to scrape Stack Overflow content and subprocess for catching compiler errors. It requires Python 3.0 and above.
 
 
 
